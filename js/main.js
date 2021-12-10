@@ -13,7 +13,7 @@ $(document).ready(function(){
 
 	}
     
-console.log(moment().format("MMMM"));
+
 	// Posts
 	if(window.location.href.indexOf('index') > -1){
 		var posts = [
